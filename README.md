@@ -1,7 +1,7 @@
 # 📋 Project Lifecycle Template
 
-This is my go-to setup for running a project from kickoff to wrap-up without starting from scratch every time.  
-If you’re new to project management (or just want more structure), this will walk you through what to track, when to track it, and how to keep everything organized in GitHub.
+This is my go-to setup for running a project from kickoff to wrap-up without starting from scratch every time.<br>
+If you’re new to project management (or just want more structure), this will walk you through what to track, when to track it, & how to keep everything organized in GitHub.
 
 ---
 
@@ -95,8 +95,8 @@ You can tag issues by:
 ---
 
 ## 💡 Why I Made This
-When you’re starting out as a PM, it’s easy to lose track of what you should be documenting and when.  
-This keeps me (and now you) from reinventing the wheel every project.  
+When you’re starting out as a PM, it’s easy to lose track of what you should be documenting & when.<br>
+This keeps me (& now you) from reinventing the wheel every project.  
 It works whether you’re doing Agile, Waterfall, or a mix.
 
 ---
