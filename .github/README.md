@@ -77,11 +77,11 @@ You can tag issues by:
 ---
 
 ## 💡 Why I Made This
-When you’re starting out as a PM, it’s easy to lose track of what you should be documenting & when.  
-This keeps me (and now you) from reinventing the wheel every project.  
+When you’re starting out as a PM, it’s easy to lose track of what should be documented & when.  
+This keeps me (& now you) from reinventing the wheel every project.  
 It works whether using Agile, Waterfall, or a mix.
 
 ---
 
 ## 📜 License
-MIT License — use it, tweak it, share it, just give credit to.
+MIT License — use it, tweak it, share it, just give credit.
