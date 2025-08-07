@@ -1,16 +1,26 @@
-# Project Roadmap
+# Project Roadmap (Template)
 
-## Phase 1: Planning (Jan 2025)
-- Define scope & goals
-- Identify stakeholders
-- Create initial timeline
+## Phase 1 – Initiation
+- Define project goals & success criteria
+- Identify key stakeholders
+- Develop high-level project charter
 
-## Phase 2: Development (Feb – Mar 2025)
-- Build AI tool
-- Test with pilot group
-- Gather feedback
+## Phase 2 – Planning
+- Build detailed project plan & milestones
+- Identify risks & mitigation strategies
+- Assign responsibilities & roles
 
-## Phase 3: Launch (Apr 2025)
-- Final deployment
-- Marketing push
-- Post-launch review
+## Phase 3 – Execution
+- Implement planned deliverables
+- Hold regular progress check-ins
+- Track changes & issues
+
+## Phase 4 – Monitoring & Control
+- Review project performance metrics
+- Adjust plan as needed based on findings
+- Manage risks & issues proactively
+
+## Phase 5 – Closure
+- Complete final deliverables
+- Conduct post-project review
+- Archive project documentation
