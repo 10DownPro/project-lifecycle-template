@@ -1,12 +1,21 @@
 # Retrospective
 
-**Date**:  
-**Facilitator**:  
-**What went well**  
-- ...
+**Purpose:**  
+Reflect on the project to identify successes, areas for improvement, & actionable next steps.
 
-**What to improve**  
-- ...
+**When to Use:**  
+Hold within 1–2 weeks after project closure.
 
-**Actions**  
-- Owner – Due – Action
+**Date:**  
+**Facilitator:**  
+
+## What Went Well
+- Positive highlights.
+
+## What to Improve
+- Challenges or blockers.
+
+## Actions
+| Owner | Due Date | Action Item |
+|-------|----------|-------------|
+|       |          |             |
